@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression
 
 
 years = np.array([2020, 2021, 2022, 2023, 2024])
-deaths = np.array([23797, 23860, 22597, 23106, 23800])  # Giả định tăng đều
+deaths = np.array([23797, 23860, 22597, 23106, 23800])  
 
 # 2. Tạo DataFrame
 data = pd.DataFrame({
